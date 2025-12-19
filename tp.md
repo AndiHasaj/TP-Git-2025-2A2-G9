@@ -1,6 +1,7 @@
-Ce fichier est un requis pour ce TP pratique.
-C'est tout, il n'y a rien d'autre à voir ici.
-Vraiment pour le coup, il n'y a sérieusement rien.
-Je sais pas le plus intéressant mais je n'y peux rien...
+# TP Final - Versioning avec Git et GitHub
 
-Il fait beau aujourd'hui sinon ?
+Ce fichier contient le travail réalisé par l'élève 2 (Senard).  
+J'ai ajouté ce fichier pour décrire brièvement mes modifications dans le cadre du TP Git.  
+Il montre que j'ai créé ma branche, ajouté mes fichiers et participé aux merges avec les autres élèves.
+
+
